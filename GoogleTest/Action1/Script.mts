@@ -1,4 +1,4 @@
-﻿SystemUtil.Run "C:\Program Files (x86)\HPE\Unified Functional Testing\bin\WebDriverHost.exe","www.google.com"
+﻿SystemUtil.Run "C:\Program Files (x86)\HPE\Unified Functional Testing\bin\WebDriverHost.exe","www.gmail.com"
 
 Set oWSO = CreateObject("Scripting.FileSystemObject")
 
